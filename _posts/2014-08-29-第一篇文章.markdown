@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "第一篇文章!"
+date:   2014-08-29 16:14:38
+categories: jekyll update
+---
+第一篇使用jekyll 搭建的博客写的文章，发布在github上，可以当自己的博客用了，省了空间，省了域名。
+
+{% highlight javascript %}
+var s = "";
+var func = function(){
+    alert(123);
+}
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
